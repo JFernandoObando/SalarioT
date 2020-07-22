@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Salario_fr_FR.qm</file>
+        <file>Salario_it.qm</file>
+    </qresource>
+</RCC>

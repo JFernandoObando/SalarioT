@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="abrir">Recursos/boton-abrir-archivo.png</file>
+        <file alias="calcular">Recursos/calculadora.png</file>
+        <file alias="guardar">Recursos/disco-flexible.png</file>
+        <file alias="salir">Recursos/iconfinder_exit-enter-leave-in-door_2931187.png</file>
+        <file alias="nuevo">Recursos/nuevo-archivo.png</file>
+        <file alias="guardarComo">Recursos/salvar.png</file>
+        <file alias="iconoWin">Recursos/iconfinder_calculator-math-tool-school_2824440.png</file>
+        <file alias="ayuda">Recursos/info_15260.png</file>
+    </qresource>
+</RCC>
